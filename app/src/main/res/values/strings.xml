@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fundamentos Jetpack Compose</string>
+    <string name="hello_world">Hello Wold</string>
+    <string name="hello_turma">Hello Turma</string>
+</resources>
